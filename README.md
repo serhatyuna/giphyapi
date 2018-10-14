@@ -17,3 +17,6 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+## LICENSE
+giphyapi is licensed under the 'GNU General Public License v3.0'
