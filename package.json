@@ -23,7 +23,7 @@
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-3": "^6.24.1",
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "css-loader": "^3.6.0",
     "file-loader": "^2.0.0",
     "vue-loader": "^15.9.3",
