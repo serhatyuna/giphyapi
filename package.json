@@ -24,7 +24,7 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^7.0.2",
-    "css-loader": "^3.6.0",
+    "css-loader": "^5.2.5",
     "file-loader": "^2.0.0",
     "vue-loader": "^15.9.3",
     "webpack": "^4.43.0",
